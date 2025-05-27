@@ -1,7 +1,0 @@
-<resources>
-    <color name="primaryColor">#70B93D</color> <!-- Green -->
-    <color name="secondaryColor">#E94F37</color> <!-- Tomato Red -->
-    <color name="backgroundColor">#F8F0E8</color> <!-- Light Beige -->
-    <color name="textColor">#000000</color> <!-- Black -->
-    <color name="accentDark">#2F5D3F</color> <!-- Dark Green -->
-</resources>
